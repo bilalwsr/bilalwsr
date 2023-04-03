@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, I'm M Bilal Hussain</h1>
 <h3 align="center">Data wizard from the "City of Lights" Karachi, Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3253310-Coder">
+<img align="right" alt="Coding" width="400" src="9faf0eb0acd5a3fb43e6d462620ba69b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalwsr&label=Profile%20views&color=0e75b6&style=flat" alt="bilalwsr" /> </p>
