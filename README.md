@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkedin.com/in/bilalwsr/overlay/background-image/)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGryZ0Ad7vgig/profile-displaybackgroundimage-shrink_350_1400/0/1675706019595?e=1686182400&v=beta&t=TE_Al4CndQTLi8Y6SsyTIGHtS0EhUxaJD0JeWXNpUnY)
 
 <h1 align="center">Bonjour 👋, I'm M Bilal Hussain</h1>
 <h3 align="center">Data wizard from the "City of Lights" Karachi, Pakistan.</h3>
