@@ -22,9 +22,6 @@
 
 
 
-
-
-
  
 
 <h2 align="left"> ❤️ BEST I CAN WORK WITH:</h2>
