@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGryZ0Ad7vgig/profile-displaybackgroundimage-shrink_350_1400/0/1675706019595?e=1686182400&v=beta&t=TE_Al4CndQTLi8Y6SsyTIGHtS0EhUxaJD0JeWXNpUnY)
+<p align="center"> <img src="Your paragraph text.png" alt="bilalwsr" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=45&duration=2000&pause=200&center=true&vCenter=true&multiline=true&width=1500&height=200&lines=Hey%2C+welcome+to+my+profile!++Feel+%E2%9D%A4%EF%B8%8F;+free+to+reach+out+if+you+have+any+questions+;or+just+want+to+say+hi.+%E2%9C%8C%EF%B8%8F%F0%9F%98%89)](https://git.io/typing-svg)
 
@@ -7,7 +7,7 @@
 <h3 align="center">Data wizard from the "City of Lights" Karachi, Pakistan.</h3>
 
 
-<p align="left"> <img src="Untitled design.png" alt="bilalwsr" /> </p>
+<p align="center"> <img src="Untitled design.png" alt="bilalwsr" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalwsr&label=Profile%20views&color=0e75b6&style=flat" alt="bilalwsr" /> </p>
 
