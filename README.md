@@ -6,10 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalwsr&label=Profile%20views&color=0e75b6&style=flat" alt="bilalwsr" /> </p>
 
 
-
 # 💫 About Me:
 - 🔭 I’m currently working on  Data Secrets, Training Machine<br><br>- 🌱 I’m currently learning  D3.js, Chart.js, Pytorch<br><br>- 👯 I’m looking to collaborate on  Anything you wish<br><br>- 💬 Ask me about ML, DL, EDA<br><br>- 📫 How to reach me bilalwsr@gmail.com<br><br> <H1>***⚡ Fun fact "Data is the new oil"🤑 "Clive Humby"***</H1>
 
+
+
+
+
+<p align="left"> <img src="Untitled design.png" alt="bilalwsr" /> </p>
 
 
 
