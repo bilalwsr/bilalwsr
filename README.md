@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on  Anything you wish<br>
 - 💬 Ask me about ML, DL, EDA<br>
 - 📫 How to reach me bilalwsr@gmail.com<br><br><br><br>
-<H1>***⚡ Fun fact "Data is the new oil"🤑 "Clive Humby"***</H1>
+<H1> ⚡ Fun fact "Data is the new oil"🤑 "Clive Humby" </H1>
 
 
 
