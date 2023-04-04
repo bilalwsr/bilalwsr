@@ -7,7 +7,12 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on  Data Secrets, Training Machine<br><br>- 🌱 I’m currently learning  D3.js, Chart.js, Pytorch<br><br>- 👯 I’m looking to collaborate on  Anything you wish<br><br>- 💬 Ask me about ML, DL, EDA<br><br>- 📫 How to reach me bilalwsr@gmail.com<br><br> <H1>***⚡ Fun fact "Data is the new oil"🤑 "Clive Humby"***</H1>
+- 🔭 I’m currently working on  Data Secrets, Training Machine<br>
+- 🌱 I’m currently learning  D3.js, Chart.js, Pytorch<br>
+- 👯 I’m looking to collaborate on  Anything you wish<br>
+- 💬 Ask me about ML, DL, EDA<br>
+- 📫 How to reach me bilalwsr@gmail.com<br><br><br><br>
+<H1>***⚡ Fun fact "Data is the new oil"🤑 "Clive Humby"***</H1>
 
 
 
